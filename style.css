@@ -143,6 +143,8 @@ table {
 /*Digital clock*/
 
 #digital-clock {
+
+	display: inline-block;
 	background-color: #c0c0c0;
 	width: 35%;
 	margin: auto;
